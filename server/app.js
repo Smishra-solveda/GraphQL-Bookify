@@ -15,7 +15,7 @@ dotenv.config({
 app.use(cors());
 
 const password = process.env.PASSWORD;
-mongoose.connect(`mongodb+srv://shashwat:11223344@cluster0.8e6yml0.mongodb.net/NinjaGraphQL`)
+mongoose.connect(`mongodb+srv://shashwat:${password}@cluster0.8e6yml0.mongodb.net/NinjaGraphQL`)
 mongoose.connection.once('open', () => {
     console.log('conneted to database');
 });
