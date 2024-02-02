@@ -1,7 +1,10 @@
-# graphql-playlist
-All course files for the GraphQL tutorial playlist on The Net Ninja YouTube channel.
+Here are the ScreenShot of project
 
-Node modules are not included in the course files. After download, run npm install to install the modules (client and server folders)
+# Home Page
+![Screenshot (507)](https://github.com/Smishra-solveda/GraphQL-Bookify/assets/133752093/78439f1d-bd3a-439e-9deb-e2ee2d24aed7)
+
+# Queries and Mutation
+![Screenshot (508)](https://github.com/Smishra-solveda/GraphQL-Bookify/assets/133752093/9c0e8e6b-e4e1-4614-9a25-725d7352cc2d)
 
 
 Here is the query and mutation to perform operation
